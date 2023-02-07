@@ -1,4 +1,4 @@
-# D-Lab's Python Fundamentals Workshop
+# D-Lab's Python Intermediate Workshop
 
 [![Datahub](https://img.shields.io/badge/launch-datahub-blue)](https://dlab.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FPython-Fundamentals-Revamp&urlpath=lab%2Ftree%2FPython-Fundamentals-Revamp%2F) [![Binder](http://mybinder.org/badge.svg)](LINK)
 
@@ -8,7 +8,7 @@ This repository contains the materials for D-Lab’s Python Intermediate worksho
 
 This interactive workshop series is your complete introduction to programming Python for people with little or no previous programming experience. By the end of the series, you will be able to apply your knowledge of basic principles of programming and data manipulation to a real-world social science application.
 
-We recommend attending [Python Fundamentals](https://github.com/dlab-berkeley/Python-Fundamentals-Pilot) prior to this workshop. 
+We recommend attending [Python Fundamentals](https://github.com/dlab-berkeley/Python-Fundamentals-Pilot) prior to this workshop.
 
 Python Intermediate has 3 parts. Each of the parts takes 2 hours, and is delivered in a lecture-style coding walkthrough interrupted by challenge problems and a break. Instructors and TAs are dedicated to engaging you in the classroom and answering questions in plain language.
 
