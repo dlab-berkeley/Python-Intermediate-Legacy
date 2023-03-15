@@ -72,6 +72,7 @@ The DataHub downloads this repository, along with any necessary packages, and al
 If you don't have a Berkeley CalNet ID, you can still run these lessons in Binder, which is another cloud-based option. Click this button:
 
 [![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/dlab-berkeley/Python-Intermediate-Pilot/HEAD)
+
 Note: Using Binder, you unfortunately cannot save your work.
 
 
