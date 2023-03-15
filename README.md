@@ -6,7 +6,8 @@ This repository contains the materials for D-Lab’s Python Intermediate worksho
 
 ## Workshop Goals
 
-This three-part interactive workshop series is a follow-up to D-Lab's [Python Fundamentals](https://github.com/dlab-berkeley/Python-Fundamentals-Pilot). It covers loops and conditionals, creating your own functions, doing analysis and visualization in Pandas, and basic data science project workflow.
+This three-part interactive workshop series is a follow-up to D-Lab's [Python Fundamentals](https://github.com/dlab-berkeley/Python-Fundamentals-Pilot). 
+It covers loops and conditionals, creating your own functions, analysis and visualization in Pandas, and the basics of a data science project workflow.
 
 ## Learning Objectives
 
