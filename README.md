@@ -43,7 +43,7 @@ Now that you have all the required software and materials, you need to run the c
 
 3. Navigate to lessons -> Fundamentals-I
 
-4. Open the `01_Jupyter_and_Python.ipynb` to begin.
+4. Open the `1_Control_Flow_and_Functions.ipynb` to begin.
 
 5. Press Shift + Enter (or Ctrl + Enter) to run a cell.
 
