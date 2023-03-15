@@ -1,4 +1,4 @@
-# D-Lab's Python Fundamentals Workshop
+# D-Lab's Python Intermediate Workshop
 
 [![Datahub](https://img.shields.io/badge/launch-datahub-blue)](https://dlab.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FPython-Intermediate-Pilot&urlpath=lab%2Ftree%2FPython-Intermediate-Pilot%2F) [![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/dlab-berkeley/Python-Intermediate-Pilot/HEAD) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
