@@ -26,7 +26,7 @@ This workshop does **not** cover the following:
 
 Python Intermediate has 3 parts. Each of the parts takes 2 hours, and is delivered in a lecture-style coding walkthrough interrupted by challenge problems and a break. Instructors and TAs are dedicated to engaging you in the classroom and answering questions in plain language.
 
-1. **Part 1: Control Flow and Functions**
+1. **Part 1: Functions and Control Flow**
 2. **Part 2: Data Analysis and Visualization**
 3. **Part 3: Project**
 
