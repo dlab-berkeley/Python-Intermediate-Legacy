@@ -12,7 +12,7 @@ This three-part interactive workshop series is a follow-up to D-Lab's Python Fun
 
 After completing Python Intermediate, you will be able to:
 - Implement loops to do repeated computations.
-- Understand and write if-statements.
+- Understand how to handle conditions.
 - Write your own functions.
 - Do basic operations in Pandas, including simple visualizations.
 - Understand the basic workflow for a data science project.
@@ -26,7 +26,7 @@ This workshop does **not** cover the following:
 
 Python Intermediate has 3 parts. Each of the parts takes 2 hours, and is delivered in a lecture-style coding walkthrough interrupted by challenge problems and a break. Instructors and TAs are dedicated to engaging you in the classroom and answering questions in plain language.
 
-1. **Part 1: Functions and Control Flow**
+1. **Part 1: Functions and Conditionals**
 2. **Part 2: Data Analysis and Visualization**
 3. **Part 3: Project**
 
