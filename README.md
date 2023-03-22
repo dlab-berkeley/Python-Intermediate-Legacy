@@ -11,7 +11,7 @@ This three-part interactive workshop series is a follow-up to D-Lab's Python Fun
 ## Learning Objectives
 
 After completing Python Intermediate, you will be able to:
-- Understand and write for-loops.
+- Implement loops to do repeated computations.
 - Understand and write if-statements.
 - Write your own functions.
 - Do basic operations in Pandas, including simple visualizations.
