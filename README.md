@@ -14,7 +14,7 @@ After completing Python Intermediate, you will be able to:
 - Implement loops to do repeated computations.
 - Understand how to handle conditions.
 - Write your own functions.
-- Do basic operations in Pandas, including simple visualizations.
+- Perform basic operations in Pandas, including visualization.
 - Understand the basic workflow for a data science project.
 
 This workshop does **not** cover the following:
