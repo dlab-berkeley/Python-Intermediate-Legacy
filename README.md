@@ -1,6 +1,6 @@
 # D-Lab's Python Intermediate Workshop
 
-[![Datahub](https://img.shields.io/badge/launch-datahub-blue)](https://dlab.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FPython-Intermediate-Pilot&urlpath=lab%2Ftree%2FPython-Intermediate%2F) [![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/dlab-berkeley/Python-Intermediate-Pilot/HEAD) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Datahub](https://img.shields.io/badge/launch-datahub-blue)](https://dlab.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdlab-berkeley%2FPython-Intermediate-Pilot&urlpath=lab%2Ftree%2FPython-Intermediate%2F) [![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/dlab-berkeley/Python-Intermediate/HEAD) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 This repository contains the materials for D-Lab’s Python Intermediate workshop series. Basic experience with Python (e.g. through [Python Fundamentals](https://github.com/dlab-berkeley/Python-Fundamentals-Pilot)) is expected.
 
@@ -73,7 +73,7 @@ The DataHub downloads this repository, along with any necessary packages, and al
 
 If you don't have a Berkeley CalNet ID, you can still run these lessons in Binder, which is another cloud-based option. Click this button:
 
-[![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/dlab-berkeley/Python-Intermediate-Pilot/HEAD)
+[![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/dlab-berkeley/Python-Intermediate/HEAD)
 
 Note: Using Binder, you unfortunately cannot save your work.
 
