@@ -108,6 +108,8 @@ Here are other Python workshops offered by the D-Lab:
 # Contributors
 * Tom van Nuenen
 * Emily Grabowski
+  
+Previous iterations of this workshop were created by:
 * Pratik Sachdeva
 * Christopher Hench
 * Rochelle Terman
